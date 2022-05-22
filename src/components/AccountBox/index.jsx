@@ -65,10 +65,10 @@ const InnerContainer = styled.div`
     width: 100%;
     display:flex;
     flex-direction: column;
-    paddding: 0 1.8em;
+    padding: 0 1.8em;
  `;
 
-export function AccountBox(props) {
+export function AccountBox() {
     return( 
     <BoxContainer>
         <TopContainer>
